@@ -5,8 +5,4 @@
 这不包括任何种类的商店机制，只是添加一种货币供服务器使用
 
 ## 下载
-<p align="center">
-  <a href="https://builds.guizhanss.net/haiman233/Money-and-Things-SLIMEFUN-CN/main">
-    <img src="https://builds.guizhanss.net/f/haiman233/Money-and-Things-SLIMEFUN-CN/main/badge.svg" alt="Build status"/>
-  </a>
-</p>
+ [下载 Money-and-Things-SLIMEFUN-CN](https://builds.guizhanss.net/haiman233/Money-and-Things-SLIMEFUN-CN/master/)
