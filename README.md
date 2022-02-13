@@ -1,5 +1,8 @@
-# Slimefun4 Addon
-This is an addon for Slimefun4 which aims to add various money and economy based items for setting up your server.
+# 固态货币
+这是一个Slimefun4的插件，旨在添加各种基于金钱和经济的项目来配置你的服务器
 
-## Notes,
-This does NOT include any sort of shop mechanics, this only adds items for setting one up with your choice of shop plugin.
+## 提示
+这不包括任何种类的商店机制，只是添加一种货币供服务器使用
+
+## 下载
+https://builds.guizhanss.net/haiman233/Money-and-Things-SLIMEFUN-CN/master/1
